@@ -1,0 +1,42 @@
+html{
+    text-align: center;
+    align-items: center;
+    color:#1d1d1de8;
+    font-family: monospace;
+}
+body{
+    /* margin-top: 80px; */
+    background-image: url(https://api.timeforkids.com/wp-content/uploads/2019/09/final-cover-forest.jpg);
+    background-color: rgba(224, 221, 221, 0.5);
+}
+h1{
+    margin-top: 50px;
+    /* margin-bottom: 30px; */
+}
+h2{
+    margin-bottom: 40px;
+    color: #1d1d1dc9;
+}
+h3{
+    font-size: 20px;
+    margin-top: 40px;
+}
+p{
+    max-width: 50%;
+    text-align: center;
+    position: relative;
+    left: 25%;
+    font-size: 1.4em;
+}
+a{
+    text-decoration: none;
+    font-size: 1.2em;
+    font-family: sans-serif;
+}
+._pQuote{
+    font-size: 14px;
+}
+
+#contactMe{
+    margin-top: 200px;
+}
